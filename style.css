@@ -1,0 +1,183 @@
+body{
+    background-color: rgb(66, 228, 212);
+}
+
+.owlImg{
+    width: 10%;
+}
+
+#userInput{
+    padding: 3%;
+    color: black;
+    border-radius:10px;
+}
+
+#one{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left:30% ;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#two{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 6%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#three{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 10%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#division{
+    padding: 1%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 20%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#multiplication{
+    padding: 1%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 5%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#four{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left:30% ;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#five{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 6%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#six{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 10%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#additon{
+    padding: 1%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 20%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#subtraction{
+    padding: 1%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 5%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#seven{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left:31% ;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#eight{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 6%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#nine{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 10%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#squareRoot{
+    padding: 1%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 20%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#square{
+    padding: 1%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 5%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#zero{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-left:27% ;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#equal{
+    padding: 0.5%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 2%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+#cube{
+    padding: 1%;
+    background-color: cornsilk;
+    margin-top: 5%;
+    margin-left: 36%;
+    cursor: pointer;
+    border-radius:10px;
+}
+
+
+
+
